@@ -32,4 +32,9 @@ No internet connection is required after setup.
 ---
 
 ## 📂 Project Structure
-
+offline-ai-pdf-chat/
+│
+├── main.py              # Main application script
+├── requirements.txt     # Python dependencies
+├── .gitignore           # Ignored files and folders
+└── README.md            # Project documentation
