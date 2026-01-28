@@ -38,5 +38,5 @@ offline-ai-pdf-chat/
 ├── requirements.txt     # Python dependencies
 ├── .gitignore           # Ignored files and folders
 └── README.md            # Project documentation
-
+## 📂 Project Architecture
 <img width="1536" height="1024" alt="Offline AI Arcitecture" src="https://github.com/user-attachments/assets/cc537349-1a11-459a-a217-a49ffda89efb" />
